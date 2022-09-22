@@ -1,6 +1,6 @@
 #include "main.h"
 
-/** 
+/**
  * _strncat - concatenates n bytes from a string to another
  * @dest: string to append to
  * @src: string to add
@@ -9,7 +9,7 @@
  */
 char *_strcat(char *dest, char *src)
 {
-	int i,j;
+	int i, j;
 
 	i = 0;
 	j = 0;
